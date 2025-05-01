@@ -1,0 +1,16 @@
+
+services:
+  - type: web
+    name: bmv-quiz-app
+    env: node
+    buildCommand: npm install && npm run build
+    startCommand: node server.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+    buildFilter:
+      paths:
+        - package.json
+        - server.js
+        - client/**
+    staticPublishPath: dist/public

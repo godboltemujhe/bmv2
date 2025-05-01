@@ -1,0 +1,99 @@
+[
+  {
+    "uniqueId": "d4409988-e7d8-4350-b283-f154109c1876",
+    "title": "Airtel ",
+    "description": "",
+    "questions": [
+      {
+        "question": "Hello ",
+        "answerDescription": "",
+        "options": [
+          "Kssiskkss",
+          "Ss",
+          "Ss",
+          "Ss"
+        ],
+        "correctAnswer": "Kssiskkss",
+        "questionImages": [],
+        "answerImages": []
+      }
+    ],
+    "timer": 300,
+    "category": "General Knowledge",
+    "history": [],
+    "createdAt": "2025-04-30T20:06:50.749Z",
+    "password": "80000",
+    "isPublic": true,
+    "version": 38,
+    "id": 5
+  },
+  {
+    "uniqueId": "5b95660c-5b34-4bc5-8d70-f318897d6611",
+    "title": "Sample Quiz",
+    "description": "This is a sample quiz.",
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "answerDescription": "Paris is the capital and largest city of France.",
+        "options": [
+          "Berlin",
+          "Madrid",
+          "Paris",
+          "Rome"
+        ],
+        "correctAnswer": "Paris",
+        "questionImages": [],
+        "answerImages": []
+      },
+      {
+        "question": "What is 2 + 2?",
+        "answerDescription": "This is basic addition.",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "correctAnswer": "4",
+        "questionImages": [],
+        "answerImages": []
+      }
+    ],
+    "timer": 300,
+    "category": "General Knowledge",
+    "history": [],
+    "createdAt": "2025-05-01T06:35:14.921Z",
+    "password": "optional-password",
+    "isPublic": true,
+    "version": 2,
+    "id": 7
+  },
+  {
+    "uniqueId": "49c08840-079c-4776-a107-a304ad4f860b",
+    "title": "yhsdfsd",
+    "description": "",
+    "questions": [
+      {
+        "question": "df",
+        "answerDescription": "",
+        "options": [
+          "sdf",
+          "sdf",
+          "sdf",
+          "sdf"
+        ],
+        "correctAnswer": "sdf",
+        "questionImages": [],
+        "answerImages": []
+      }
+    ],
+    "timer": 300,
+    "category": "General Knowledge",
+    "history": [],
+    "createdAt": "2025-05-01T10:26:22.922Z",
+    "isPublic": true,
+    "version": 1,
+    "id": 24,
+    "password": null
+  }
+]
